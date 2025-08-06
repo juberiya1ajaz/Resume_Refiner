@@ -43,7 +43,7 @@ cd AIResumeRefiner
 pip install -r requirements.txt
 ```
 
-### 3. Download NLTK & spaCy Resources
+### 3. Download NLTK & spaCy Resources or run the backend.py code once
 ```python
 import nltk
 nltk.download('punkt')
